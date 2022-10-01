@@ -1,0 +1,2 @@
+# RHS Helper Scripts
+These are a collection of helper scripts that @alannapasco and I wrote to help us with our Microsoft TEALS volunteer work at [Revere High School](http://www.revereschools.org/). They are intended to automate common git functionality we need to do in order to keep our students private repositories up to date with the master repository.
